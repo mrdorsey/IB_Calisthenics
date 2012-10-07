@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'IB calisthenics' target in the 'IB calisthenics' project
+//
+
+#ifdef __OBJC__
+	#import <Cocoa/Cocoa.h>
+#endif
