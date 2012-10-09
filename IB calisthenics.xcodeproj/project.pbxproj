@@ -198,6 +198,7 @@
 		45D8CB7A16223DFE008746A5 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				CLASSPREFIX = "";
 				LastUpgradeCheck = 0450;
 				ORGANIZATIONNAME = "Michael Dorsey";
 			};
@@ -446,6 +447,7 @@
 				45D8CBB716223DFE008746A5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		45D8CBB816223DFE008746A5 /* Build configuration list for PBXNativeTarget "IB calisthenicsTests" */ = {
 			isa = XCConfigurationList;
@@ -454,6 +456,7 @@
 				45D8CBBA16223DFE008746A5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
